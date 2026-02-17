@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+venv26/
+data/
+file.ipynb
+
+# Build
+build/
+dist/
+
+# VSCode
+.vscode/
+
+# Mac/Linux junk
+.DS_Store
