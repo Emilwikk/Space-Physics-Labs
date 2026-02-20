@@ -1,0 +1,1 @@
+This is my code for the labs in the course Space Physics and Measurement Techniques at Umeå University 2026. 
